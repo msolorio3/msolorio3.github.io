@@ -13,9 +13,9 @@
     "title": ""
   },
   "legend": {
-    "edgeLabel": "Artistss",
-    "colorLabel": "",
-    "nodeLabel": "Museums/Diversity"
+    "edgeLabel": "Residents",
+    "colorLabel": "Modularity",
+    "nodeLabel": "Los Angeles County/Diversity"
   },
   "features": {
     "search": true,
