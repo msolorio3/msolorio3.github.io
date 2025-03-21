@@ -1,1 +1,7 @@
-The site contains networks designed to illustrate inequalities within major U.S. museums while also looking at how these inequalities in artist diversity coincide with the diversity of the city in which the museum resides. The networks pull from public data including an Artist Diversity data set and Census data.
+<html>
+
+<body>
+  <h1>The site contains networks designed to illustrate inequalities within major U.S. museums while also looking at how these inequalities in artist diversity coincide with the diversity of the city in which the museum resides. The networks pull from public data including an Artist Diversity data set and Census data.</h1>
+</body>
+
+</html>
